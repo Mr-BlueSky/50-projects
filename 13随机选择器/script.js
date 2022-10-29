@@ -2,9 +2,6 @@ const tagsEl = document.getElementById('tags')
 const textarea = document.getElementById('textarea')
 const bu = document.getElementById('button')
 
-bu.addEventListener('click',()=>{
-    console.log(tagsEl)
-})
 
 textarea.focus()
 
